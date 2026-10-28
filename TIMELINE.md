@@ -11,15 +11,15 @@ Keep historical chronology separate from the order in which readers discover eve
 ## Historical events
 | ID | Date / period | Event | Immediate result | Long-term consequences | Confidence |
 |---|---|---|---|---|---|
-| EVT-001 | Protagonist's original era; exact date TBD | The protagonist, a magical researcher in his twenties, dies in his highly advanced, magically industrialized society. The circumstances are undecided. | His life in that era ends. | His soul is transported nearly one thousand years into the past; the mechanism and connection, if any, between death and displacement are unknown. | Established event; details open |
-| EVT-002 | Nearly 1,000 years before EVT-001 | The protagonist's soul arrives in the past and inhabits the recently deceased body of an eighteen-year-old noble. | He begins a new life in the host's circumstances. | Unknown; effects on later history are undecided. | Established event; exact chronology open |
-| EVT-003 | Shortly before the story opens; exact date TBD | The duke grants his eighteen-year-old son a small barony on a newly discovered continent across the Vast Sea. The duke sees his son as an indulgent wastrel who has brought shame upon the family. Though he does not want to abandon him, he believes he must distance his son from the family for the sake of its other members. The barony is a reluctant provision and amounts to exile on the frontier. | The son is given a title and frontier responsibilities away from the family. | Unknown; the practical scope of the barony and the son's response remain open. | Established event; details of the grant open |
-| EVT-004 | Shortly before the protagonist's arrival; exact date TBD | The duke's eighteen-year-old son, once considered to have great magical potential, dies in his sleep after excessive alcohol consumption. He has squandered his talents, but his magical potential remains. | His body becomes the vessel inhabited by the protagonist. | Unknown. | Established event; precise cause of death open |
+| EVT-001 | Protagonist's original era; exact date TBD | The protagonist, a magical researcher in his twenties, dies in his highly advanced, magically industrialized society. The circumstances are undecided. | His life in that era ends. | His soul is transported nearly one thousand years into the past; the mechanism and any connection between death and displacement are unknown. | Established event; details open |
+| EVT-002 | Nearly 1,000 years before EVT-001 | The protagonist's soul arrives in the past and inhabits the recently deceased body of an eighteen-year-old low-ranking noble. | He begins a new life in the host's circumstances. | Unknown; effects on later history are undecided. | Established event; exact chronology open |
+| EVT-003 | Shortly before the story opens; exact date TBD | The duke grants his eighteen-year-old son a small barony on a newly discovered continent across the Vast Sea. The son has shamed the family through indulgence and irresponsibility. The duke does not want to abandon him, but believes he must distance him from the family to protect its other members. | The son is given a title, land, and frontier responsibilities away from the family. The grant is a reluctant provision and opportunity, while also amounting to frontier exile. | Unknown; the practical scope of the barony and the son's response remain open. | Established event; details of the grant open |
+| EVT-004 | Shortly before the protagonist's arrival; exact date TBD | The duke's eighteen-year-old son, once considered to have great magical potential, dies in his sleep after drinking too much alcohol. He had partied, drunk, womanized, flaunted his rank, and used his family status to get what he wanted from others. He squandered his talent, but his magical potential remains. | His body becomes the vessel inhabited by the protagonist. | Unknown. | Established event; precise cause of death open |
 
 ## Novel-era chronology
 | ID | Date / relative time | Event | Characters involved | Dependencies |
 |---|---|---|---|---|
-| EVT-STORY-001 | TBD | The protagonist begins his new life in the earlier era, in the body of the duke's son, who has been granted a frontier barony. | Protagonist; duke; host's family and household TBD | EVT-002, EVT-003, EVT-004 |
+| EVT-STORY-001 | TBD | The protagonist begins his new life in the earlier era, in the body of the duke's son, who has been granted a frontier barony. He inherits the host's reputation as well as his body and magical potential. | Protagonist; duke; host's family and household TBD | EVT-002, EVT-003, EVT-004 |
 
 ## Timeline checks
 - Does each event have a plausible cause?
@@ -28,3 +28,4 @@ Keep historical chronology separate from the order in which readers discover eve
 - Do character ages and travel durations agree with this chronology?
 - Do not assume the protagonist's death caused the time displacement unless that connection is deliberately established.
 - Do not assume the newly discovered continent is uninhabited.
+- The protagonist inherits the host's reputation; any social advantage or cover this may provide remains a proposal, not established canon.

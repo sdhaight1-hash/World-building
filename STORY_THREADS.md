@@ -12,6 +12,8 @@ TBD
 | PLOT-002 | The protagonist retains memories of both lives, and their coexistence feels strange. | Soul displacement into the host's body | Identity and inner experience | Established premise; details open | To be developed |
 | PLOT-002 | The protagonist must live with memories from both his original life and the host's life. How does it feel to have two personal histories in one mind? | The soul displacement and inhabiting of the host's body | Identity, emotional continuity, relationships, and how he responds to people who remember the host differently from how he remembers himself | Established premise; subjective details and consequences open | To be determined as the protagonist's voice and internal experience are developed |
 
+| PLOT-003 | The protagonist recognizes the host as the historical first baron of the region and remembers that, in the original timeline, the baron died one year after arriving. | His original-life study of New World history | His knowledge offers a map of likely developments, but the new timeline has already diverged because he now inhabits the host's body beyond the point at which history says the host died. | Established premise; future historical accuracy is uncertain | To be developed |
+
 ## Mysteries and revelations
 | ID | What the reader believes | What is actually true | Evidence / clues | Reveal timing |
 |---|---|---|---|---|

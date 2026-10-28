@@ -8,6 +8,8 @@
 ## Core premise
 A magical researcher in his twenties from a highly advanced, magically industrialized society dies and finds his soul nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble. The protagonist's cause of death, the displacement mechanism, and whether the two events are causally connected remain undecided.
 
+The protagonist retains the memories of both lives: his own life as a researcher in the future and the host's life in the earlier era. Having two lives' worth of memories in one mind is a strange experience. The precise subjective experience and psychological effects remain to be defined; do not assume amnesia or a clean replacement of the host.
+
 The protagonist retains the memories of both lives: his own life as a researcher in the future and the host's life in the earlier era. Having two lives' worth of memories in one mind is a strange and potentially disorienting experience. The exact nature of that experience—how the memories coexist, whether they feel equally personal, and how they affect his sense of identity—has not yet been specified.
 
 His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire. There is no established world-ending catastrophe premise.
@@ -46,6 +48,7 @@ The precise resources, borders, population, revenue, obligations, and authority 
 - What is the new continent like, and who already lives there?
 - What are the protagonist's goals and the novel's central conflict?
 - What does the son's barony include in practice: land, people, revenue, obligations, and authority?
+- How do the two lives' memories coexist in the protagonist's mind, and what does this feel like?
 - How does the family, household, and wider society respond to the host's reputation?
 
 ## Coherence notes

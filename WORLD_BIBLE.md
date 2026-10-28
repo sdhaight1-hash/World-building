@@ -8,9 +8,9 @@
 ## Core premise
 A magical researcher in his twenties from a highly advanced, magically industrialized society dies and finds his soul nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble.
 
-Before his death, he has just graduated from the Imperial Military Academy. Although he chose magical research as his career path, all officers graduating from the academy are required to spend their final six months on campaign as frontline soldiers. He has just completed that requirement and is celebrating graduation with fellow graduates when something goes wrong and he dies. What goes wrong, the precise cause of death, the displacement mechanism, and whether his death and displacement are causally connected remain undecided.
+Before his death, he has just graduated from the Imperial Military Academy. Born into a merchant family, he was separated from them at a young age because of his magical aptitude and compelled into the academy; the authority and exact mechanism behind this remain open. He has a natural aptitude for magical research and is well suited to it, despite the path into imperial service having been imposed on him. All officers graduating from the academy must spend their final six months of education as frontline soldiers on a military campaign, regardless of specialization. He is a capable swordsman, but hates killing on behalf of the Empire and celebrates graduation with fellow graduates partly because he expects to be done with frontline duty. He remains obliged to serve the Empire. Something goes wrong during the celebration and he dies; the incident, precise cause of death, displacement mechanism, and any causal connection between death and displacement remain undecided.
 
-The protagonist retains the memories of both lives: his own life in the advanced original era and the host's life in the earlier era. Having two lives' worth of memories in one mind is a strange experience. The precise subjective experience and psychological effects remain to be defined; do not assume amnesia or a clean replacement of the host.
+The protagonist retains the memories of both lives: his own life in the advanced original era and the host's life in the earlier era. He wakes in the small colonial port town that, nearly one thousand years later, will be the great metropolis where he grew up. The scale of the contrast is startling: the future city he remembers is, in this era, only a tiny settlement. Having two lives' worth of memories in one mind is a strange experience. The precise subjective experience and psychological effects remain to be defined; do not assume amnesia or a clean replacement of the host.
 
 His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire. There is no established world-ending catastrophe premise.
 
@@ -29,11 +29,11 @@ The duke does not want to abandon his son. Nevertheless, he believes he must dis
 The precise resources, borders, population, revenue, obligations, and authority attached to the barony remain open.
 
 ## Established setting facts
-1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized future.
+1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized future. Born to a merchant family, he was separated from them young due to his magical aptitude and compelled into the Imperial Military Academy. He is naturally suited to magical research, is a capable swordsman, and dislikes killing for the Empire. His final six months of academy education were spent as a frontline soldier on campaign, a requirement for all graduating officers. He dies during a graduation celebration, with the incident and cause undecided.
 2. The future society is much more dystopian than the era to which he travels; no world-ending catastrophe is established.
 3. He dies in his original era and his soul travels nearly one thousand years into the past, inhabiting a recently deceased eighteen-year-old. The cause of death, mechanism of displacement, and any causal connection between them are undecided.
 4. The protagonist retains memories of both his original life and the host's life. Having both lives' memories in one mind is a strange experience; its precise psychological and experiential details remain open.
-5. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire.
+5. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire. The protagonist wakes in a tiny colonial port settlement that will become the great metropolis where he grew up nearly one thousand years later.
 6. The host is the duke's son, an indulgent wastrel whose partying, drinking, womanizing, flaunting of rank, and abuse of family status brought shame on his family.
 7. The host once had great magical potential and still possesses it, but squandered it through irresponsibility and indulgence.
 8. The host died in his sleep after drinking too much alcohol; the precise medical cause is unknown.
@@ -41,6 +41,7 @@ The precise resources, borders, population, revenue, obligations, and authority 
 
 ## Open questions
 - What makes the future dystopian, and how did its society become that way?
+- How and why does the tiny colonial port settlement grow into the metropolis the protagonist remembers from childhood?
 - What are the rules, costs, and limits of magic?
 - How does the earlier kingdom develop into the future Empire?
 - What goes wrong during the protagonist's post-graduation celebration, causing his death? What is the displacement mechanism, and are death and displacement connected?

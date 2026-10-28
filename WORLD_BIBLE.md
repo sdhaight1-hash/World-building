@@ -1,56 +1,40 @@
 # World Bible
 
-> Keep this document concise. Facts below are limited to what has been established; unresolved details remain open.
-
 ## Project identity
 - **Working title:** TBD
-- **Genre / subgenre:** Fantasy; reincarnation or soul-displacement into the past
-- **Intended audience:** TBD
-- **Format:** Novel / series / TBD
-- **Current status:** Early development
+- **Genre:** Fantasy; soul displacement into the past
+- **Status:** Early development
 
 ## Core premise
+A magical researcher in his twenties from a highly advanced, magically industrialized society finds himself nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble.
 
-A magical researcher in his twenties dies during a world-ending magical catastrophe in his own era. His soul is transported nearly one thousand years into the past and inhabits the body of a recently deceased eighteen-year-old low-ranking noble.
+His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire.
 
-The protagonist's original society had already undergone magical industrialization, but it was dying when he lived there. The era he arrives in is at a pre-industrial to early-industrial stage of magical technological development.
+The host was the son of a duke, had a reputation as a wastrel, and died in his sleep after drinking too much alcohol. His father was recently granted a small barony on a newly discovered continent across the Vast Sea from the Empire. The grant is effectively exile to the frontier.
 
-The body he inhabits belonged to the son of a duke. The young man had a reputation as a wastrel and died in his sleep after drinking too much alcohol. His father, the duke, had recently been granted a small barony on a newly discovered continent across the Vast Sea from the Empire. The grant is effectively an exile to the frontier.
+## Established setting facts
+1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized future.
+2. The future society is much more dystopian than the era to which he travels.
+3. He travels nearly one thousand years into the past and inhabits the body of a recently deceased eighteen-year-old. The mechanism and cause of the displacement are undecided.
+4. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire.
+5. The duke's barony is on a newly discovered continent across the Vast Sea; the grant is effectively frontier exile.
+6. The host was known as a wastrel and died in his sleep after excessive alcohol consumption.
 
-## Reader experience
-- **Tone and atmosphere:** TBD
-- **Themes:** TBD
-- **Desired sense of wonder, dread, intimacy, or scale:** TBD
-- **Content boundaries / exclusions:** TBD
+## Open questions
+- What makes the future dystopian, and how did its society become that way?
+- What are the rules, costs, and limits of magic?
+- How does the earlier kingdom develop into the future Empire?
+- What causes the time displacement?
+- Why was the duke granted the barony?
+- What is the new continent like, and who already lives there?
+- What are the protagonist's goals and the novel's central conflict?
 
-## The world at a glance
-- **Where and when the story takes place:** The opening era is nearly a thousand years before the protagonist's original lifetime. The immediate setting includes an Empire, the Vast Sea, and a recently discovered continent known as the “New World” for now.
-- **What ordinary life looks like:** TBD
-- **Magical development across eras:** The protagonist's original era has already passed through magical industrialization, while the era he arrives in is pre-industrial to early-industrial in magical technology. His original era is also in the midst of a world-ending magical catastrophe. The nature and cause of that catastrophe remain undecided.
-- **What makes this world different from ours:** Magic is sufficiently developed to underpin an industrialized society, but its exact capabilities, limitations, and historical development remain undecided.
-- **What most people misunderstand about their world:** TBD
+## Coherence notes
+- Future knowledge does not automatically provide the materials, infrastructure, or institutions needed to reproduce advanced magic.
+- Do not assume the future's dystopia is caused by magic or magical industrialization.
+- Do not assume the “New World” is uninhabited.
 
-## Foundational truths
-1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized era.
-2. His era is in the middle of a world-ending magical catastrophe, during which he dies.
-3. After his death, his soul travels nearly one thousand years into the past and inhabits the body of a recently deceased eighteen-year-old. Whether the catastrophe caused or enabled the displacement is not established.
-4. The host body belonged to a duke's son whose father was granted a small barony on a newly discovered continent across the Vast Sea from the Empire; the grant is effectively frontier exile.
-5. The host was known as a wastrel and died in his sleep after excessive alcohol consumption.
-6. The earlier era is at a pre-industrial to early-industrial stage of magical technological development, compared with the protagonist's already industrialized era.
-
-## Constraints that keep the world coherent
-- **Physical / natural constraints:** TBD
-- **Social / institutional constraints:** The host's inherited title, family ties, reputation, and obligations may constrain the protagonist; their exact nature is not yet defined.
-- **Magic / technology constraints:** The protagonist's future knowledge does not automatically guarantee access to the materials, infrastructure, resources, or institutions required to reproduce advanced magic in the past. The precise limits are TBD.
-- **Narrative constraints:** Distinguish what the protagonist remembers or knows from what he can actually prove, build, or change. Do not assume the catastrophe's cause, the mechanism of time displacement, or that the past can necessarily avoid the future disaster.
-
-## Story connection
-- **Central conflict:** TBD
-- **Why this conflict exists in this world:** TBD
-- **What is at stake if nothing changes:** TBD
-- **What the protagonist can do that matters:** He carries knowledge from a magically industrialized civilization that died around him, but how much of that knowledge can be applied in the past—and whether it can change the future—remains to be established.
-
-## Key references
+## References
 - [Canon and open questions](CANON.md)
 - [Timeline](TIMELINE.md)
 - [Story threads](STORY_THREADS.md)

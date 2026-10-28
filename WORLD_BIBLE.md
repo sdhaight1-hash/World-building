@@ -6,37 +6,51 @@
 - **Status:** Early development
 
 ## Core premise
-A magical researcher in his twenties from a highly advanced, magically industrialized society finds himself nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble.
+A magical researcher in his twenties from a highly advanced, magically industrialized society dies and finds his soul nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble. The protagonist's cause of death, the displacement mechanism, and whether the two events are causally connected remain undecided.
 
-His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire.
+His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire. There is no established world-ending catastrophe premise.
 
-The host was the son of a duke. He was once considered to have great magical potential and still possesses that potential, but he squandered it through indulgence and irresponsibility. In his father's eyes, he is a disgrace to the family: a wastrel who has brought shame upon them. He died in his sleep after drinking too much alcohol.
+## The host and his family
+The host was the eighteen-year-old son of a duke. He was an indulgent wastrel: he partied, drank, womanized, flaunted his rank, and used his family status to get what he wanted from other people. His behavior brought shame on his family.
 
-The duke grants his son a small barony on a newly discovered continent across the Vast Sea. This is a reluctant act of familial duty and a way of sending his son away from the family. The duke does not want to abandon his son, but believes he must distance him for the sake of the rest of the family. The grant amounts to exile on the frontier. The duke's precise circumstances and the details of the grant remain open.
+He was once considered to have great magical potential and still possesses that potential, but he squandered it through indulgence and irresponsibility. His defining failure was wasting his ability, not lacking it. His father regards him as a disgrace and an embarrassment to the family.
+
+The host died in his sleep after drinking too much alcohol. His exact medical cause of death is not established.
+
+## The barony and frontier exile
+The duke grants the barony to his son: a small barony on a newly discovered continent across the Vast Sea. The continent is newly discovered from the kingdom's perspective; it is not established to be uninhabited.
+
+The duke does not want to abandon his son. Nevertheless, he believes he must distance him from the family because the son's conduct damages the standing and prospects of the rest of the family. The grant is a difficult, reluctant decision: it provides the son with a title, land, and responsibilities while removing him from the family environment. In practice, it amounts to exile on the frontier, but it is not simply abandonment.
+
+The precise resources, borders, population, revenue, obligations, and authority attached to the barony remain open.
 
 ## Established setting facts
 1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized future.
-2. The future society is much more dystopian than the era to which he travels.
-3. He travels nearly one thousand years into the past and inhabits the body of a recently deceased eighteen-year-old. The mechanism and cause of the displacement are undecided.
+2. The future society is much more dystopian than the era to which he travels; no world-ending catastrophe is established.
+3. He dies in his original era and his soul travels nearly one thousand years into the past, inhabiting a recently deceased eighteen-year-old. The cause of death, mechanism of displacement, and any causal connection between them are undecided.
 4. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire.
-5. The duke grants his son a small barony on a newly discovered continent across the Vast Sea. The grant is a reluctant attempt to distance his son from the family while still providing for him.
-6. The host was known as a wastrel, had squandered his still-existing magical potential, and died in his sleep after excessive alcohol consumption.
-7. The duke views his son's conduct as a source of shame and believes sending him away is necessary for the sake of the rest of the family.
+5. The host is the duke's son, an indulgent wastrel whose partying, drinking, womanizing, flaunting of rank, and abuse of family status brought shame on his family.
+6. The host once had great magical potential and still possesses it, but squandered it through irresponsibility and indulgence.
+7. The host died in his sleep after drinking too much alcohol; the precise medical cause is unknown.
+8. The duke reluctantly grants his son a small barony on a newly discovered continent across the Vast Sea, both providing for him and distancing him from the family to protect the rest of the family.
 
 ## Open questions
 - What makes the future dystopian, and how did its society become that way?
 - What are the rules, costs, and limits of magic?
 - How does the earlier kingdom develop into the future Empire?
-- What causes the time displacement?
+- What causes the protagonist's death and time displacement, and are they connected?
 - What is the new continent like, and who already lives there?
 - What are the protagonist's goals and the novel's central conflict?
-- What does the son’s barony include in practice: land, people, revenue, obligations, and authority?
+- What does the son's barony include in practice: land, people, revenue, obligations, and authority?
+- How does the family, household, and wider society respond to the host's reputation?
 
 ## Coherence notes
 - Future knowledge does not automatically provide the materials, infrastructure, or institutions needed to reproduce advanced magic.
 - Do not assume the future's dystopia is caused by magic or magical industrialization.
-- Do not assume the “New World” is uninhabited.
+- Do not assume the newly discovered continent is uninhabited.
 - The host's lack of achievement is not proof of a lack of magical ability; his potential remains real.
+- Keep the duke's motive clear: he wants to protect the rest of the family from the damage caused by his son's behavior, while reluctantly providing for his son rather than simply abandoning him.
+- The protagonist inherits the host's reputation as well as his body and magical potential. How the protagonist uses or responds to that reputation is not yet canon.
 
 ## References
 - [Canon and open questions](CANON.md)

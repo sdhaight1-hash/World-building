@@ -8,6 +8,8 @@
 ## Core premise
 A magical researcher in his twenties from a highly advanced, magically industrialized society dies and finds his soul nearly one thousand years in the past, inhabiting the body of a recently deceased eighteen-year-old low-ranking noble. The protagonist's cause of death, the displacement mechanism, and whether the two events are causally connected remain undecided.
 
+The protagonist retains the memories of both lives: his own life as a researcher in the future and the host's life in the earlier era. Having two lives' worth of memories in one mind is a strange and potentially disorienting experience. The exact nature of that experience—how the memories coexist, whether they feel equally personal, and how they affect his sense of identity—has not yet been specified.
+
 His future society is far more dystopian than the earlier era. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and an early precursor to the future Empire. There is no established world-ending catastrophe premise.
 
 ## The host and his family
@@ -28,17 +30,19 @@ The precise resources, borders, population, revenue, obligations, and authority 
 1. The protagonist is a magical researcher in his twenties from a highly advanced, magically industrialized future.
 2. The future society is much more dystopian than the era to which he travels; no world-ending catastrophe is established.
 3. He dies in his original era and his soul travels nearly one thousand years into the past, inhabiting a recently deceased eighteen-year-old. The cause of death, mechanism of displacement, and any causal connection between them are undecided.
-4. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire.
-5. The host is the duke's son, an indulgent wastrel whose partying, drinking, womanizing, flaunting of rank, and abuse of family status brought shame on his family.
-6. The host once had great magical potential and still possesses it, but squandered it through irresponsibility and indulgence.
-7. The host died in his sleep after drinking too much alcohol; the precise medical cause is unknown.
-8. The duke reluctantly grants his son a small barony on a newly discovered continent across the Vast Sea, both providing for him and distancing him from the family to protect the rest of the family.
+4. The protagonist retains memories of both his original life and the host's life. Having both lives' memories in one mind is a strange experience; its precise psychological and experiential details remain open.
+5. The earlier era is an aristocratic kingdom just beginning to industrialize through magic, and a precursor to the future Empire.
+6. The host is the duke's son, an indulgent wastrel whose partying, drinking, womanizing, flaunting of rank, and abuse of family status brought shame on his family.
+7. The host once had great magical potential and still possesses it, but squandered it through irresponsibility and indulgence.
+8. The host died in his sleep after drinking too much alcohol; the precise medical cause is unknown.
+9. The duke reluctantly grants his son a small barony on a newly discovered continent across the Vast Sea, both providing for him and distancing him from the family to protect the rest of the family.
 
 ## Open questions
 - What makes the future dystopian, and how did its society become that way?
 - What are the rules, costs, and limits of magic?
 - How does the earlier kingdom develop into the future Empire?
 - What causes the protagonist's death and time displacement, and are they connected?
+- How do the two lives' memories coexist in the protagonist's mind? Do they feel like memories of self, memories of another person, or some unsettling mixture?
 - What is the new continent like, and who already lives there?
 - What are the protagonist's goals and the novel's central conflict?
 - What does the son's barony include in practice: land, people, revenue, obligations, and authority?
@@ -50,7 +54,8 @@ The precise resources, borders, population, revenue, obligations, and authority 
 - Do not assume the newly discovered continent is uninhabited.
 - The host's lack of achievement is not proof of a lack of magical ability; his potential remains real.
 - Keep the duke's motive clear: he wants to protect the rest of the family from the damage caused by his son's behavior, while reluctantly providing for his son rather than simply abandoning him.
-- The protagonist inherits the host's reputation as well as his body and magical potential. How the protagonist uses or responds to that reputation is not yet canon.
+- The protagonist inherits the host's reputation as well as his body, memories, and magical potential. How he uses or responds to that reputation is not yet canon.
+- The protagonist remembers both lives. Do not simplify this into amnesia, a clean replacement of the host, or access to only one life's memories.
 
 ## References
 - [Canon and open questions](CANON.md)
